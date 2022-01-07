@@ -1,0 +1,17 @@
+input {
+  border: none;
+  border-bottom: 1px solid black;
+  margin: 0px 1rem;
+  background-color: transparent;
+  outline: none;
+  padding: 0.5rem 1rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 1rem;
+  font-weight: bold;
+}
